@@ -1,6 +1,6 @@
 {
   "name": "site-provider",
-  "homepage": "https://juniorwelson.github.io/site-provider",
+  "homepage": "https://juniorwelson.github.io/NetworkProvider/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-      "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
