@@ -1,5 +1,6 @@
 {
   "name": "site-provider",
+  "homepage": "https://juniorwelson.github.io/site-provider",
   "private": true,
   "version": "0.0.0",
   "type": "module",
