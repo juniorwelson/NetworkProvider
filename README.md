@@ -1,16 +1,57 @@
-# React + Vite
+Readme-site-provider
+🚀 NetworkProvider — Website Oficial
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um site moderno, profissional e otimizado para provedores de internet, desenvolvido para apresentar serviços, planos, cobertura e facilitar o contato com clientes.
 
-Currently, two official plugins are available:
+🎯 Objetivo do Projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Criar uma experiência clara e rápida para que usuários encontrem informações sobre planos, benefícios, suporte e contratação, mantendo um visual limpo e tecnológico.
 
-## React Compiler
+🧰 Tecnologias Utilizadas
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React + Vite — Performance e desenvolvimento rápido
 
-## Expanding the ESLint configuration
+Tailwind CSS — Estilização moderna e responsiva
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Lucide React — Ícones leves e elegantes
+
+gh-pages — Deploy para GitHub Pages
+
+🖥️ Recursos do Site
+
+🔧 Banner hero profissional
+
+🚀 Sessão de benefícios com animações
+
+📊 Cards de planos com destaque
+
+📞 Botões rápidos de contato
+
+📩 Formulário de newsletter
+
+👣 Footer completo e institucional
+```
+📁 Estrutura do Projeto:
+📦 site-provider
+├── 📂 public
+│ ├── 📂 img
+├── 📂 src
+│ ├── 📂 components
+│ ├── App.jsx
+│ └── main.jsx
+├── package.json
+├── vite.config.js
+└── README.md
+```
+```
+
+
+
+## 📞 Contato
+LinkedIn: www.linkedin.com/in/welson-junior-a587b72b8
+E-mail: eujuniorplus@gmail.com
+GitHub: github.com/juniorwelson
+Sinta-se à vontade para explorar meus projetos, contribuir com feedbacks ou entrar em contato. 🚀
+Obrigado pela visita! 👨‍💻✨
+
+```
