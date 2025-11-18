@@ -28,14 +28,18 @@ const About = () => {
         cliente que confia na <span className="text-amber-300">NetDev</span>.
       </p>
       <img
-        loading="lazy"
-        src="../public/img/rocket.gif"
+        src="/NetworkProvider/img/rocket.gif"
         alt="foguete"
         className="w-50"
       />
 
-
-      <a href="#" className="p-2 text-white bg-emerald-700 text-2xl rounded-2xl hover:bg-emerald-400"> Quero Me Conectar</a>
+      <a
+        href="#"
+        className="p-2 text-white bg-emerald-700 text-2xl rounded-2xl hover:bg-emerald-400"
+      >
+        {" "}
+        Quero Me Conectar
+      </a>
     </section>
   );
 };
