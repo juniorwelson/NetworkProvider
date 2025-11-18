@@ -29,7 +29,7 @@ const About = () => {
       </p>
       <img
         loading="lazy"
-        src="../public/img/rocketgif.gif"
+        src="../public/img/rocket.gif"
         alt="foguete"
         className="w-50"
       />
